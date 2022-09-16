@@ -34,6 +34,6 @@ void main(int argc, char** argv) {
 		   
 		}
 
-	display(counter(mem));
+	display(counter(mem))
 
 }
